@@ -6,11 +6,11 @@
   "env": {
     "APIKEY": {
       "description": "Youtube API V3 KEY",
-      "value": "AIzaSyDOy40AKnOUvotuyMJ8Fk9guYbecB3ZUXo"
+      "value": "AIzaSyA3udJvOSyerpbwUoUTjBhKih49w_ZZR0Q"
     },
     "PROJECT_ID": {
       "description": "PROJECT ID",
-      "value": "PLLOFsS_xM0Rx0FvJ11eS-Mxomo4xLJUD_"
+      "value": "magnetic-signer-280617"
     }
   }
 }
